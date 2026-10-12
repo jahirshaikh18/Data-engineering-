@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 
 print("=" * 80)
 print("PRACTICAL 10: MINI PROJECT — END-TO-END DATA ENGINEERING PIPELINE")
-print("Group Members (Group of 2): Zahir Shaikh & Vedanti Sawant")
+print("Group Members (Group of 2): Jahir Shaikh & Vedanti Sawant")
 print("=" * 80)
 
 # ---------------------------------------------------------------------------

@@ -23,13 +23,14 @@ Welcome to the **Data Engineering** repository. This repository contains the com
 7. **Practical 7**: Comprehensive ETL Pipeline Design & Incremental Data Loading
 8. **Practical 8**: Distributed Data Processing with PySpark DataFrames
 9. **Practical 9**: End-to-End Multi-Entity E-Commerce Data Pipeline
-10. **Practical 10 (Mini Project)**: End-to-End Data Engineering Solution (Ingestion, Cleaning, Transformation, Storage, Star Schema Data Warehouse Design & Executive BI Reporting) — *Group of 2: Zahir Shaikh & Vedanti Sawant*
+10. **Practical 10 (Mini Project)**: End-to-End Data Engineering Solution (Ingestion, Cleaning, Transformation, Storage, Star Schema Data Warehouse Design & Executive BI Reporting) — *Group of 2: Jahir Shaikh & Vedanti Sawant*
 
 ---
 
 ## 👤 Author Information
 
-* **Name**: Zahir Shaikh
-* **Roll No.**: 18
+* **Name**: Jahir Shaikh
+* **Roll No.**: 44
+* **Student ID**: 5135861
 * **Class**: T.Y. Data Science
 * **Lab Partner (Practical 10)**: Vedanti Sawant
